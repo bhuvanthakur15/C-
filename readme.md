@@ -1,4 +1,5 @@
-StudentReportCardManagementSystem-
+**StudentReportCardManagementSystem-**
+
 The project titled "Student Report Card Management System” is done for the practical application of the subject titled Object Oriented Programming through C++. The main purpose of this project is to help the faculty to maintain the students’ marks record from class 1st to 5th and generate their report cards when needed.
 
 Implementation-
