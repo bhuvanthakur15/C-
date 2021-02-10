@@ -2,7 +2,7 @@
 
 The project titled "Student Report Card Management System” is done for the practical application of the subject titled Object Oriented Programming through C++. The main purpose of this project is to help the faculty to maintain the students’ marks record from class 1st to 5th and generate their report cards when needed.
 
-Implementation-
+**Implementation-**
 1)	**intro() function:** The purpose of this function is to display the welcome screen and the main utilities or features of the project to the user.
 2)	 **main() function:** The purpose of this function is to keep displaying the Main Menu to the user until he/she wants to exit and presses option 3.
 3)	**result() function:** The purpose of this function or subroutine is to display the screen where the user can select whether to view the class wise result of all the students or to generate the report card of an individual student.
